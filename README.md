@@ -93,7 +93,7 @@ python main.py
 ```
 ###
 
-<h4 align="left">Testing a precisão:</h4>
+<h4 align="left">Testando a precisão:</h4>
 É importante ressaltar de que os testes foram realizados em 300dpi. O software suporta entre 72dpi e 1200dpi; quanto maior o DPI, maior a presição.
 <br><br>
 Dentro da pasta "test", você irá encontrar alguns arquivos PDF com valores CMYK, eles devem corresponder aos seguintes resultados:
